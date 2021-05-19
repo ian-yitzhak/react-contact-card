@@ -1,0 +1,10 @@
+body {
+  background-color: #FF5A5A;
+  height: 100%;
+  font-family: 'tradegothiclt-bold', sans-serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
